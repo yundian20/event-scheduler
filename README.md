@@ -1,6 +1,6 @@
-# ESP32-S3 Event Scheduler
+# Event Scheduler
 
-基于优先级的轻量级事件调度器，专为 ESP32-S3 设计。
+基于优先级的轻量级事件调度器， 设计。
 
 ## 特性
 
